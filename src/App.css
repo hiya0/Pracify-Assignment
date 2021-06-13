@@ -1,0 +1,10 @@
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    color : #374b5c;
+}
+.App {
+    background-image: linear-gradient(#f1fefe, rgba(241, 254, 254, 0.1));
+}

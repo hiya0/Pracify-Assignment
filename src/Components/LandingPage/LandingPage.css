@@ -1,0 +1,53 @@
+.main {
+    width: 100vh;
+    padding: 0 7em;
+    margin: 8em 0;
+}
+
+.small {
+font-size: 36px;
+}
+
+.large {
+    font-size: 56px;
+    line-height: 1em;
+}
+
+.info{
+    font-size: 20px;
+    overflow-wrap: break-word;
+    max-width: 75%;
+    margin: 2em 0;
+}
+
+.content {
+    width: 50%;
+}
+
+.btn-explore {
+    background-color: #00dbd0;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 48px 13px 38px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.images{
+    margin-top: 2%;
+    position: relative;
+}
+
+.back-image {
+    padding: 64.5px 65.3px 65px 66px;
+    border: solid 3px #00dbd0;
+    margin: 22px;
+}
+
+.front-image {
+    margin-top: 15px;
+    left: auto;
+    right: 210px;
+    position: absolute;
+}

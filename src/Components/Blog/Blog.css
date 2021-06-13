@@ -1,0 +1,9 @@
+.card-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 3em;
+    min-width: 40%;
+    padding: 1em 7em ;
+}

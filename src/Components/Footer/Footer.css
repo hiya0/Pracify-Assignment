@@ -1,0 +1,75 @@
+.footer-main {
+    background-image: url('../../asset/Group\ 229.png');
+    padding: 4em 4em 0 4em;  
+    margin-top: 8em;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+    max-width: 30%;
+    padding: 2em 0 ;
+}
+
+.footer-img {
+    padding-right: 7em;
+}
+
+.copy {
+    font-weight: bold;
+    font-size:16px;
+    padding: 0.5em 1em;
+    border-top: 2px solid #00dbd0;
+    margin-right: 6em;
+}
+
+.footer-text {
+    padding: 2em 2em 0 2em;
+    font-size: 14px;
+}
+.heading {
+    font-weight: bold;
+    font-size:16px;
+    padding: 0 1em 0.5em 1em;
+    border-bottom: 2px solid #00dbd0;
+}
+
+.col-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+    max-width: 40%;
+}
+
+.info-col {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    line-height: 3em;
+}
+
+.info-col-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1em;
+}
+
+.social-col {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 1em;
+}
+
+.social-img {
+    padding-right: 1%;
+}

@@ -1,0 +1,46 @@
+.testimonial {
+    padding: 6em 4em;
+}
+
+.name{
+    font-size: 24px;
+    font-weight: 400;
+    padding: 0.5em 0;
+}
+
+.user-img {
+    border-radius: 50%;
+    margin-top: 2%;
+    width: 10%;
+    height: 9%;
+}
+
+.star {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    max-width: 50%;
+    text-align: center;
+    line-height: 2.5em;
+}
+
+.test-ellipse-fill{
+    background-color: #00dbd0;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin: 2em 1em 2em 0;
+}
+
+.test-ellipse{
+    background-color: transparent;
+    border: 1px solid #00dbd0;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin: 2em 1em 2em 0;
+}

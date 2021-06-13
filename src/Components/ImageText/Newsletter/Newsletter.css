@@ -1,0 +1,25 @@
+.news {
+    padding: 0 4em;
+}
+
+.subscribe {
+    margin: 5em 3em;
+}
+
+.subscribe input {
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 2em 3em;
+    color:#374b5c;
+}
+
+.subscribe button {
+    background-color: #00dbd0;
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    padding: 20px 48px 20px 38px;
+    font-size: 20px;
+    cursor: pointer;
+}
