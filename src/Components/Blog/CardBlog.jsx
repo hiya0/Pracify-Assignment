@@ -50,7 +50,7 @@ export const CardBlog = (props) => {
             </CardContent>
         </CardActionArea>
         <CardActions>
-            <a className={classes.link}>Read More</a>
+            <a href="/"className={classes.link}>Read More</a>
         </CardActions>
     </Card>
     )
