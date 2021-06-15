@@ -1,2 +1,2 @@
 # Pracify Assignment
- Link - pracify-assignment.herokuapp.com
+ Link - https://pracify-assignment.herokuapp.com/
